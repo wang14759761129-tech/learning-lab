@@ -13,6 +13,7 @@ Foundational learning in Python, statistics, Git, and English communication thro
 | [notes/](notes/README.md) | Concept explanations, questions, and learning reflections |
 | [exercises/](exercises/README.md) | Small programs and worked statistical exercises |
 | [data/](data/README.md) | Documented public or clearly labelled synthetic practice data |
+| [PROJECT-DRIVEN-LEARNING.md](PROJECT-DRIVEN-LEARNING.md) | How the flagship project determines the learning sequence |
 
 ## First task after tool foundations
 
