@@ -24,6 +24,12 @@ These are project-triggered needs, not mastered skills. No advanced analysis or 
 ## Pilot 1B method requirement (2026-09-23)
 
 - Before field-level uncertainty rates are meaningful, define eligibility separately from `unknown`, `unclear`, and `not_applicable`; especially establish whether a third-ball opportunity exists before calculating third-ball denominators.
-- A complete-point review and timing pass are still unperformed; video annotation reliability and burden remain open questions, not completed learning evidence.
+- A later external dense visual pass reviewed the same ten points, but elapsed time and replay count were not recorded. Tactical labels still failed the uncertainty threshold; annotation cost remains unknown.
+
+## Pilot 1C learning needs (2026-09-23)
+
+- **Conditional denominators:** calculate third-ball side/outcome uncertainty only among confirmed third-ball attacks; report unresolved eligibility separately.
+- **Operational timestamp definitions:** distinguish an exact point-start timestamp from a clip-start anchor when a point is already underway.
+- **Measurement calibration:** objective match state can be recorded in this segment, while tactical categories need a more suitable source or revised operational definitions. No reliability mastery is claimed from one observer/pass.
 
 The project drives the learning sequence: question → data → method → evidence.
