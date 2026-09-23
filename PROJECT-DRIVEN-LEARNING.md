@@ -21,4 +21,9 @@ I am not learning tools at random. The flagship project gives each topic a reaso
 
 These are project-triggered needs, not mastered skills. No advanced analysis or machine learning was required for this Mini Pilot.
 
+## Pilot 1B method requirement (2026-09-23)
+
+- Before field-level uncertainty rates are meaningful, define eligibility separately from `unknown`, `unclear`, and `not_applicable`; especially establish whether a third-ball opportunity exists before calculating third-ball denominators.
+- A complete-point review and timing pass are still unperformed; video annotation reliability and burden remain open questions, not completed learning evidence.
+
 The project drives the learning sequence: question → data → method → evidence.
